@@ -11,7 +11,7 @@ Java Developer
 * OOP/AOP, algorithms and data structures
 * JS/HTML/CSS
 
-### 👨‍🔬 Another skills
+### 👨‍🔬 Other skills
 * C/C++, Qt
 * MATLAB
 * MIMO (Massive, Hybrid)
