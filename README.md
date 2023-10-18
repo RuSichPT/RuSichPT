@@ -31,7 +31,7 @@ RESTful API development and automation of business processes
 Development of a distributed automated network. Simulation of network behavior in Omnet++. Development of microcontroller-based devices
 *   <ins>**Desktop development**</ins> \
 QT GUI development
-*   <ins>**Digital signal processing**</ins>
+*   <ins>**Digital signal processing**</ins>\
 Research and modeling of MIMO (4G/5G) communication systems. Modeling DSP algorithms in MATLAB.
 
 ### 📚 Education
