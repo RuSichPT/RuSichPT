@@ -2,7 +2,7 @@
 Java Developer
 
 ### 🛠 Technical Stack
-* Java
+* Java SE/EE
 * Spring Framework (Web/Data/Security), Spring Boot
 * JPA/Hibernate
 * MySQL/PostgreSQL/H2, Flyway
