@@ -26,7 +26,7 @@ Java Developer
 
 ### 🧑‍💻 Work experience
 *   <ins>**Backend development**</ins> \
-RESTful API development and automation of business processes
+RESTful API development
 *   <ins>**Embeded development**</ins> \
 Development of a distributed automated network. Simulation of network behavior in Omnet++. Development of microcontroller-based devices
 *   <ins>**Desktop development**</ins> \
