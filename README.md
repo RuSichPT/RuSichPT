@@ -2,17 +2,22 @@
 Java Developer
 
 ### 🛠 Technical Stack
-* Java SE/EE
-* Spring Framework (Web/Data/Security), Spring Boot
+* Java
+* Spring Framework (Boot, Security, Data, Cloud)
 * JPA/Hibernate
-* MySQL/PostgreSQL/H2, Flyway
-* GitHub/GitLab, Maven, Docker
-* Unit, Integration and e2e testing
-* OOP/AOP, algorithms and data structures
-* JS/HTML/CSS
+* PostgreSQL, Oracle, MySQL, Flyway
+* Maven
+* Camunda
+* Kafka, Rabbit MQ, Active MQ
+* JUnit, Mockito, Testcontainers, WireMock
+* RESTful API, SOAP
+* Kubernetes, Docker
+* Git, GitHub, GitLab
+* Jira, Confluence
 
 ### 👨‍🔬 Other skills
-* C/C++, Qt
+* С/С++, Qt, C#
+* HTML, CSS, JavaScript
 * MATLAB
 * MIMO (Massive, Hybrid)
 * DSP
